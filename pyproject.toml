@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "workshop-python-basic"
+version = "0.1.0"
+description = "Workshop prático para linguagem Python. Oferecido pela Guilda JEDI (Junta Especializada de Desenvolvimento e Inovação) em https://discord.gg/eBNamXVtBW"
+authors = ["Britodfbr <britodfbr@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
